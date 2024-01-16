@@ -5,3 +5,7 @@ This project was pretty simple, in my version I wrote an express router to route
 ## Examples Of This Project Running
 
 ![Example 1](https://github.com/RockyWearsAHat/note-taker/blob/main/Develop/public/images/Example1.PNG?raw=true)
+![Example 2](https://github.com/RockyWearsAHat/note-taker/blob/main/Develop/public/images/Example2.PNG?raw=true)
+![Example 3](https://github.com/RockyWearsAHat/note-taker/blob/main/Develop/public/images/Example3.PNG?raw=true)
+![Example 4](https://github.com/RockyWearsAHat/note-taker/blob/main/Develop/public/images/Example4.PNG?raw=true)
+![Example 5](https://github.com/RockyWearsAHat/note-taker/blob/main/Develop/public/images/Example5.PNG?raw=true)
