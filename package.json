@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "cd Develop && npm run start",
-    "install": "cd Develop && npm run install"
+    "install": "cd Develop && npm install"
   },
   "author": "RockyWearsAHat",
   "license": "MIT"
