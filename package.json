@@ -1,0 +1,13 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "cd Develop && npm run start",
+    "install": "cd Develop && npm run install"
+  },
+  "author": "RockyWearsAHat",
+  "license": "MIT"
+}
