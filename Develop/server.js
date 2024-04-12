@@ -81,6 +81,8 @@ app.get("*", (req, res) => {
   res.sendFile("/index.html", { root: "public" });
 });
 
-app.listen(port, () => {
-  console.log(`Server is running on http://localhost:${port}`);
+app.listen(process.env.PORT || port, () => {
+  console.log(
+    `Server is running on http://localhost:${process.env.PORT || port}`
+  );
 });
